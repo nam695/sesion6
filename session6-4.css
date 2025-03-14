@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* e vẫn đang lúng túng trong việc xác định thành
+ phần của thẻ để css , bởi vậy nhìn rất rối mong thầy thông
+ cảm */
 .bee{
     background-color: rgb(0, 157, 0);
     color: aliceblue;
