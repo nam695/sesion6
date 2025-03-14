@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#bop{
+    font-size: 40px;
+    width: auto;
+    text-align: center;
+}
+.sim{
+    display: block;
+    border: 1px solid rgb(0, 0, 0);
+    width: 40%;
+    margin: 1% 30%;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(245, 148, 222);
+    text-align: center;
+    border-radius: 10px;
+    width: 40%;
+    height: 50px;
+    margin-left: 30%;
+}
+#bob{
+   margin-left: 30%;
+   font-size: 20px; 
+}

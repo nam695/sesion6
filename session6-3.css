@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    border-radius: 100px;
+    border: 2px solid rgba(255, 247, 0, 0.509);
+    margin-top: 10px;
+}
+#way{
+    margin-left: 25%;
+    bottom: 100px;
+    position: relative;
+    font-size: 20px;
+}
+.say{
+    display: inline-block;
+    background-color: rgb(247, 172, 215);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 1% 9%;
+}
+#rey{
+    background-color: rgb(252, 202, 246);
+    color: rgb(247, 122, 203);
+    padding: 10px 0;
+}
+ul{
+    background-color: rgb(247, 172, 215);
+    color: aliceblue ;
+}
+.reu{
+    background-color: rgb(247, 172, 215);
+    color: aliceblue ;
+    position: relative;
+    margin-bottom: 30px;
+    display: inline-block;
+    left:84%;
+}
+#hao{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}

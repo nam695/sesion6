@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ona{
+    font-weight: 900;
+    margin: 10px;
+}
+#noi{
+    width: 40%;
+    margin-left: 5%;
+}
+h2{
+    border-left: 10px solid rgb(231, 156, 27);
+    width: 80px;
+    height: 40px;
+    margin: 15px 15px 15px 0;
+    text-align: center;
+    line-height: 40px;
+}
+h3{
+    border-left: 10px solid rgb(189, 123, 10);
+    width: 200px;
+    height: 40px;
+    margin: 15px 15px 15px 0;
+    text-align: center;
+    line-height: 40px;
+}
+.enm{
+    width: 390px;
+    padding: 580px 20px 20px 20px ;
+    border:solid;
+    background-image: url(https://cdn.pixabay.com/photo/2022/07/21/12/37/fashion-7336161_1280.jpg);
+    color: aliceblue;
+    font-size: 25px;
+}
+#yut{
+    position: relative;
+    margin-left: 390px;
+    width: 300px;
+    bottom: 270px;
+    font-size: 19px;
+}
+#doy{
+    margin: 10px;
+}
