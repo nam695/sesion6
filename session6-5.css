@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ /* e vẫn đang lúng túng trong việc xác định thành
+ phần của thẻ để css , bởi vậy nhìn rất rối mong thầy thông
+ cảm */
+.ret{
+    display: inline-block;
+    width: 33%;
+    background-color: rgb(248, 204, 243);
+    text-align: center;
+    margin: 10px 0;
+    padding: 5px 0;
+}
+#fed{
+    background-color: rgb(254, 210, 251);
+    text-align: center;
+    padding: 40px 0;
+}
+button{
+    background-color:rgb(234, 115, 236) ;
+    width: 80px;
+    border-radius: 5px;
+    border:none ;
+}
+.hui{
+    display: inline-block;
+    padding-top: 30px;
+}
+#hey{
+    background-color: rgb(243, 176, 241);
+    color: aliceblue;
+    width: 100%;
+    height: 90px;
+}
+#huy{
+   margin: 0 13px;
+}
