@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* e vẫn đang lúng túng trong việc xác định thành
+ phần của thẻ để css , bởi vậy nhìn rất rối mong thầy thông
+ cảm */
 img{
     border-radius: 100px;
     border: 2px solid rgba(255, 247, 0, 0.509);
